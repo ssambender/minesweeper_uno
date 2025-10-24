@@ -24,7 +24,8 @@ ___
 
 
 ### Planned features:
-- [ ] Progress save
+- [ ] Current game progress save
+- [ ] Compression and better compiling
 - [ ] iOS release
 - [ ] Customizable variable hold length
 - [ ] Different music
