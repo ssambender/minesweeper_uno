@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/ssambender/minesweeper_uno/refs/heads/main/appIcon.png" alt="Minesweeper Uno Logo" height="165">
+ <img src="appIcon.png" alt="Minesweeper Uno Logo" height="165">
 </p>
 
 <h3 align="center">Minesweeper Uno | Better Minesweeper</h3>
